@@ -1,0 +1,2 @@
+# LLCorePlugins
+Plugins For LiteLoaderCore
